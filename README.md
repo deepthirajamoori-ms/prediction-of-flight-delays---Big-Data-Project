@@ -1,4 +1,4 @@
-# prediction-of-flight-delays---Big-Data-Project
+# prediction-of-flight-delays
  -- Mile stone-1 --
 1. Analyse data requirement for the project:
  if origin name, destination and data has seleced as input, then analyses it and gives the arrival prediction
