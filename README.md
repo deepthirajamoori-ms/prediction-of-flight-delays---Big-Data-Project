@@ -13,15 +13,14 @@
    - flight Delay in minutes and hours from input origin
         
    -**what columns required?**
-   
-        - date of the travel
-        - Origin airport name
-        - destination Aitport name
-        - Arival delay
-        - Departure Delay
-        - DepDelayMinutes         
-        - Flights name
-        - Flight ID
+   - date of the travel
+   - Origin airport name
+   - destination Aitport name
+   - Arival delay
+   - Departure Delay
+   - DepDelayMinutes         
+   - Flights name
+   - Flight ID
 
    -**Where do I get the data?**
    - Link : https://transtats.bts.gov/DL_SelectFields.asp
