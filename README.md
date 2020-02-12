@@ -1,4 +1,5 @@
-# prediction-of-flight-delays
+# Prediction of flight delays
+
 # **Mile stone-1**
 
 ## **1. Analyse data requirement for the project:**
