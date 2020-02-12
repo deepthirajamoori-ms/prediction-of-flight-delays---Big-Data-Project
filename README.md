@@ -3,9 +3,7 @@
 # **Mile stone-1**
 
 ### Analyse data requirement for the project:
-
-       If origin name, destination and data has seleced as input, then analyses it and gives the arrival prediction
-       i.e., whether it will arrive at the concerned airport on-time if not predict the delay in mintues and hours 
+- If origin name, destination and data has seleced as input, then analyses it and gives the arrival prediction i.e., whether it will arrive at the concerned airport on-time if not predict the delay in mintues and hours 
 
 
    -**What is the problem statement?**
