@@ -7,10 +7,10 @@
 
 
    -**What is the problem statement?**
-   -Show the flights delays from respective origin to destination airport on perticular date given as input.
+   - Show the flights delays from respective origin to destination airport on perticular date given as input.
         
    -**What needs to find out?**
-   flight Delay in minutes and hours from input origin
+   - flight Delay in minutes and hours from input origin
         
    -**what columns required?**
    
